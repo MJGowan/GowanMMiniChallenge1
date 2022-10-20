@@ -1,6 +1,6 @@
 # GowanMMiniChallenge1
 Madeline Gowan
-10-20-2022
+10-17-2022
 Mini Challenge 1 - Redo
 In this challenge we had to enter our name into the terminal, and have the computer provide a response, a "hello".
 
