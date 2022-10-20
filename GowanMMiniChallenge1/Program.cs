@@ -1,7 +1,8 @@
 ﻿//Maddie Gowan
 //10-17-22
-//Mini Challenge #1 - Say Hello
-//This is a redo of the former assignment
+//Mini Challenge 1 - Redo
+//In this challenge we had to enter our name into the terminal, and have the
+//computer provide a response, a "hello".
 
 Console.Clear();
 
